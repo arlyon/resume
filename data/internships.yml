@@ -1,0 +1,15 @@
+- company: Dana Petroleum
+  start: July
+  end: August 2013
+  include: true
+  goal: >
+    Used python to automate previously manual import of old well
+    data so that the upstream team could compare it with current figures.
+
+- company: Verico A/S
+  start: April
+  end: October 2012
+  include: true
+  goal: >
+      Created and installed a solution to take images and transmit telemetry
+      from a surveying station during the construction of a dam using a point-to-point satellite.

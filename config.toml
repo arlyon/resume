@@ -1,0 +1,51 @@
+baseURL = "https://cv.arlyon.co/"
+languageCode = "en-us"
+language = "en"
+title = "Alexander Lyon's CV"
+author = "Alexander Lyon"
+
+# Theme Settings
+theme = "CAPSLOCK"
+
+googleAnalytics = "UA-111745454-1"
+enableRobotsTXT=true
+enableGitInfo=true
+sectionPagesMenu = "main"
+pygmentsOptions = "linenos=inline"
+pygmentsStyle = "bw"
+
+[params]
+    description = "Useful explanations, code snippets, and projects gathered from a wide range of areas in computer science."
+    show_read_time = true
+    show_contact_in_head = false
+    show_contact_in_footer = true
+    fontawesome_sets = ["brands"]
+    copyright = "no monkeys (or typewriters) were harmed in the making of this site"
+
+[[params.contact]]
+    icon_type = "fab"
+    icon_name = "github"
+    link = "https://www.github.com/arlyon/"
+    text = "GH"
+
+[[params.contact]]
+    icon_type = "fab"
+    icon_name = "twitter"
+    link = "https://www.twitter.com/_arlyon/"
+    text = "TW"
+
+[outputs]
+    home = [ "HTML", "RSS", "HEADERS" ]
+    page = [ "HTML" ]
+
+[mediaTypes]
+    [mediaTypes."text/netlify"]
+    suffix = ""
+    delimiter = ""
+
+[outputFormats]
+    [outputFormats.HEADERS]
+    mediatype = "text/netlify"
+    baseName = "_headers"
+    isPlainText = true
+    notAlternative = true

@@ -1,0 +1,36 @@
+- title: Computer Science BSc.
+  institution: Heriot-Watt University
+  start: 2017
+  end: 2020
+  skills:
+    - Web Programming
+    - Industrial Programming
+
+- title: Computer Architecture & Programming
+  institution: University of Stavanger
+  start: 2016
+  end: 2017
+  skills:
+    - CCNA Introduction to Networks
+    - CCNA Routing and Switching
+    - Computer Architecture
+    - Data Structures and Algorithms
+
+- title: Year Study in Mathematics
+  institution: University of Stavanger
+  start: 2015
+  end: 2016
+  skills:
+    - Complex Calculus
+    - Discrete Mathematics
+    - Linear Algebra
+    - Groups and Symmetry
+
+- title: International Baccalaureate
+  institution: International School of Stavanger
+  start: 2011
+  end: 2014
+  skills:
+    - Maths
+    - Physics
+    - Economics

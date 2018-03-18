@@ -1,0 +1,53 @@
+# format:
+#   title: string
+#   description: string
+#   demo: url (without http://)
+#   source: url (without http://)
+#   img: filename.png (inside assets/projects)
+
+- title: Runescape Market Tracker
+  description: A market tracking tool that uses a task que and scheduled api hits to keep a detailed price history of the items in the game.
+  demo: demo.arlyon.co/login/?next=runescapeflip
+  source: git.arlyon.co/arlyon-co/runescapeflip
+  # img: markettracker.png
+
+- title: Library
+  description: A vue.js and django rest framework webapp that lets you document things.
+  demo: demo.arlyon.co/login/?next=library
+  source: git.arlyon.co/arlyon-co/library
+  # img: scribe.png
+
+- title: Reviews
+  description: An afternoon hack-a-project and single-page-application with a custom router and templating engine.
+  demo: arlyon.github.io/reviews
+  source: www.github.com/arlyon/reviews
+  skills:
+    - typescript
+    - javascript es7
+    - optimisation and page load
+
+- title: Flask Web Store
+  description: A school project combining flask and MYSQL to create a web shop with an admin backend and user system.
+  demo: dat220.arlyon.co
+  source: git.arlyon.co/arlyon/dat220
+  skills:
+    - database interaction/sanitization
+    - python flask
+    - templating engines
+
+- title: Youtube Channel Bot
+  description: I was so convinced that "compilation video" channels could be automated that I did it myself. Using python moviepy and ffmpeg.
+  demo: none
+  source: none
+  skills:
+    - object relational mapping
+    - memory management
+    - web scraping
+
+- title: Spring Web Store
+  description: A school project (again?) where I wrote a pluggable ORM and backend logic for a simple web shop.
+  demo: none
+  source: none
+  skills:
+    - junit
+    - object-database mapping

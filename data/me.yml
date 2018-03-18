@@ -1,0 +1,22 @@
+name: Alexander Lyon
+location: Edinburgh
+site: arlyon.co
+email: arlyon@me.com
+github: arlyon
+gitlab: git.arlyon.co
+currently: Comp.Sci. @ Heriot Watt
+
+skills: >
+  I spend my free time tinkering with software, in all capacities.
+  I am a quick adopter of new technologies and ideas and like to
+  try new libraries and techniques as often as I can, enjoying the
+  process of rapid prototyping and development. As a result I have a
+  working knowledge of different platforms and frameworks from
+  c# to python to javascript. I am currently working through a textbook
+  on functional programming and look forward to adding lisp to the list.
+  In addition to software, at home I enjoy running a small server where
+  I have been able to practice skills relating to database management,
+  web hosting, virtual machines, systemctl, bash, and network security
+  (helped heavily by the CCNA course at University). The future for me
+  is to try and source better hardware so that I can make my automated
+  youtube video recycling bot a reality.
