@@ -1,22 +1,29 @@
 - organisation: ION Racing
   start: 2016
   end: 2017
-  position: Web development. Programmed and designed the front end and api / business logic for a warehousing and order management system for a Formula Student team.
+  description: >
+    Designed and implemented (full stack) an order management system and web
+    app for warehousing and ordering automobile/computer parts for a Formula Student team.
   skills:
-    - modern web front end
-    - ES7, vuejs, typescript
-    - object oriented serverside programming
-    - webpack build system & SPA
+    - ES6, vuejs, typescript
+    - .NET core
+    - webpack build system
 
 - organisation: Cameroon Service Project
   start: 2012
   end: 2014
-  position: Event manager for a charity. Handled the social media campaigns, branding and fund raising.
+  description: >
+    Event manager for a charity. Handled social media,
+    branding and fund raising for a large sports tournament.
   skills:
-    - facebook campaigns
+    - interpersonal communication & coordination
     - creating effective branding
 
 - organisation: Student Council
   start: 2013
   end: 2014
-  position: President. Oversaw the creation of the student councils web presence as well as building and maintaining a website to boost transparency with the student body.
+  description: >
+    President. Oversaw the creation of the student councils web presence as
+    well as building a website to boost transparency with the student body.
+  skills:
+    - project planning

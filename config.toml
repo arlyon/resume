@@ -8,14 +8,15 @@ author = "Alexander Lyon"
 theme = "CAPSLOCK"
 
 googleAnalytics = "UA-111745454-1"
-enableRobotsTXT=true
-enableGitInfo=true
+enableRobotsTXT = true
+enableGitInfo = true
 sectionPagesMenu = "main"
 pygmentsOptions = "linenos=inline"
 pygmentsStyle = "bw"
 
 [params]
     description = "Useful explanations, code snippets, and projects gathered from a wide range of areas in computer science."
+    cv = true
     show_read_time = true
     show_contact_in_head = false
     show_contact_in_footer = true

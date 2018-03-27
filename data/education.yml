@@ -1,10 +1,11 @@
-- title: Computer Science BSc.
+- title: Computer Science BSc. (Hons)
   institution: Heriot-Watt University
   start: 2017
   end: 2020
   skills:
     - Web Programming
     - Industrial Programming
+    - Database Management Systems
 
 - title: Computer Architecture & Programming
   institution: University of Stavanger
