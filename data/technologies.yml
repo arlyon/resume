@@ -1,17 +1,21 @@
--
-  name: c#
--
-  name: c
--
-  name: python
--
-  name: django
--
-  name: java
--
-  name: javascript
--
-  name: typescript
--
-  name: react
+- c#
+- c
+- python
+- django
+- flask
+- java
+- spring
+- javascript
+- typescript
+- react
+- vue
+- sql
+- .NET core
+- linux
+- apache
+- nginx
+- html
+- css
+- unity
+- android
 
