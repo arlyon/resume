@@ -7,7 +7,7 @@ author = "Alexander Lyon"
 # Theme Settings
 theme = "CAPSLOCK"
 
-googleAnalytics = "UA-111745454-1"
+googleAnalytics = "UA-55373202-4"
 enableRobotsTXT = true
 enableGitInfo = true
 sectionPagesMenu = "main"
