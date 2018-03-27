@@ -15,8 +15,10 @@ pygmentsOptions = "linenos=inline"
 pygmentsStyle = "bw"
 
 [params]
-    description = "Useful explanations, code snippets, and projects gathered from a wide range of areas in computer science."
+    description = "A resume."
     cv = true
+    foreground = "#000"
+    service_worker = true
     show_read_time = true
     show_contact_in_head = false
     show_contact_in_footer = true
