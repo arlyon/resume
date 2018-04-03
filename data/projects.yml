@@ -19,7 +19,7 @@
 - title: Reviews
   description: An afternoon hack-a-project and single-page-application with a custom router and templating engine.
   demo: arlyon.github.io/reviews
-  source: www.github.com/arlyon/reviews
+  source: https://www.github.com/arlyon/reviews
   skills:
     - typescript
     - javascript es7
