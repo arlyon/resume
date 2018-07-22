@@ -1,10 +1,6 @@
 baseURL = "https://cv.arlyon.co/"
 languageCode = "en-us"
-language = "en"
 title = "Alexander Lyon's CV"
-author = "Alexander Lyon"
-
-# Theme Settings
 theme = "CAPSLOCK"
 
 googleAnalytics = "UA-55373202-4"
@@ -14,28 +10,28 @@ sectionPagesMenu = "main"
 pygmentsOptions = "linenos=inline"
 pygmentsStyle = "bw"
 
+# custom settings
+
 [params]
+    author = "Alexander Lyon"
     description = "A resume."
-    cv = true
     foreground = "#000"
-    service_worker = true
-    show_read_time = true
-    show_contact_in_head = false
-    show_contact_in_footer = true
-    fontawesome_sets = ["brands"]
-    copyright = "no monkeys (or typewriters) were harmed in the making of this site"
+    service_worker = false
 
-[[params.contact]]
-    icon_type = "fab"
-    icon_name = "github"
-    link = "https://www.github.com/arlyon/"
-    text = "GH"
+[params.cv]
+    enabled = true
+    sections = ["projects", "employment", "education", "responsibilities"]
 
-[[params.contact]]
-    icon_type = "fab"
-    icon_name = "twitter"
-    link = "https://www.twitter.com/_arlyon/"
-    text = "TW"
+[params.cv.data]
+    location = "Edinburgh"
+    site = "https://blog.arlyon.co"
+    email = "arlyon@me.com"
+    github = "arlyon"
+    gitlab = "git.arlyon.co"
+    currently = "Comp.Eng @ Heriot Watt"
+    blurb = "A tech and open source enthusiast."
+
+# misc data
 
 [outputs]
     home = [ "HTML", "RSS", "HEADERS" ]
@@ -43,7 +39,7 @@ pygmentsStyle = "bw"
 
 [mediaTypes]
     [mediaTypes."text/netlify"]
-    suffix = ""
+    suffixes = [""]
     delimiter = ""
 
 [outputFormats]
