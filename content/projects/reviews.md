@@ -3,7 +3,7 @@ title: "Reviews"
 date: "2018-07-22"
 draft: false
 pin: true
-tags: ["typescript"]
+tags: ["typescript", "javascript", "webpack"]
 demo: "https://reviews.arlyon.co"
 source: "https://www.github.com/arlyon/reviews"
 # last two are used in schema.org/SoftwareSourceCode

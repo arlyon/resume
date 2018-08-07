@@ -10,4 +10,4 @@ language: "Java"
 runtime: "Java 8"
 ---
 
-A popular mod for Minecraft with over 100,000 downloads.
+A popular mod for Minecraft with over 120,000 downloads.

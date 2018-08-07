@@ -6,7 +6,7 @@ draft: false
 pin: true
 start: May
 end: August 2018
-tags: ["airplay", "c", "cryptography", "reverse-engineering", "git"]
+tags: ["c", "cryptography", "reverse-engineering", "git"]
 ---
 
 Implement AirPlay support as a render target for VLC.

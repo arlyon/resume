@@ -3,7 +3,11 @@ title: "Crime Checker"
 date: "2018-07-21T17:20:57+01:00"
 draft: false
 pin: true
-tags: ["python", "typescript", "react", "sql", "scraping", "devops"]
+tags: [
+    "python", "typescript", "javascript", "react",
+    "sql", "scraping", "continuous integration",
+    "continuous deployment", "webpack"
+]
 demo: "https://crimechecker.herokuapp.com"
 source: "https://github.com/arlyon/crimechecker"
 # last two are used in schema.org/SoftwareSourceCode

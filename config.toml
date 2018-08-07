@@ -2,6 +2,7 @@ baseURL = "https://cv.arlyon.co/"
 languageCode = "en-us"
 title = "Alexander Lyon's CV"
 theme = "CAPSLOCK"
+disableKinds = ["sitemap"]
 
 googleAnalytics = "UA-55373202-4"
 enableRobotsTXT = true
@@ -9,6 +10,8 @@ enableGitInfo = true
 sectionPagesMenu = "main"
 pygmentsOptions = "linenos=inline"
 pygmentsStyle = "bw"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
 
 # custom settings
 

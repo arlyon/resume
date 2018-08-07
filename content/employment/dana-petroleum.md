@@ -6,7 +6,7 @@ draft: false
 pin: true
 start: July
 end: August 2013
-tags: ["python", "scraping"]
+tags: ["python", "scraping", "data science"]
 ---
 
 Created a python tool to automate the import of old well data and

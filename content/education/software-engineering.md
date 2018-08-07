@@ -6,9 +6,9 @@ draft: false
 pin: true
 start: 2017
 end: 2020
-tags: []
+tags: ["python", "sql", "javascript", "C", ".net", "csharp", "java", "algorithms"]
 ---
 
+- University Prize for Outstanding Merit
+- Deputy Principal's Award
 - Industrial Programming
-- Database Management Systems
-- Programming Languages
