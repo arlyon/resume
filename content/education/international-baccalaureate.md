@@ -1,7 +1,7 @@
 ---
 title: "Intl. Baccalaureate"
 date: "2014-07-22"
-institution: "International School of Stavanger"
+institution: "Intl. School of Stavanger"
 draft: false
 pin: true
 start: 2011
