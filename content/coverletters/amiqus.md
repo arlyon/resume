@@ -23,7 +23,7 @@ of working with open source is the communication skills I have gained.
 Coordinating with so many people remotely from different backgrounds
 and skill levels requires patience and friendliness.
 
-I am applying for this opportunity due to my Comp. Eng. course leaving
+I am applying for this opportunity due to my Soft.Eng. course leaving
 me with a lot of free time. My goals are to learn about the
 technology and the startup industry as a whole.
 
