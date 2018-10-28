@@ -9,5 +9,4 @@ end: 2014
 tags: []
 ---
 
-- Maths
-- Physics
+Certificate of Bilingual Education

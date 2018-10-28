@@ -2,7 +2,6 @@
 title: "Amiqus"
 date: 2018-08-07T12:42:28+01:00
 draft: false
-tags: []
 ---
 
 _To whom it may concern,_

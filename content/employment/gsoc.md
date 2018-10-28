@@ -6,9 +6,13 @@ draft: false
 pin: true
 start: May
 end: August 2018
-tags: ["c", "cryptography", "reverse-engineering", "git"]
+tags: [
+    "c", "cryptography", "reverse-engineering", "git", "open-source",
+    "project-management"
+]
 ---
 
-Implement AirPlay support as a render target for VLC.
+Implemented AirPlay as a render target for VLC.
 This includes reverse engineering and documenting the
-protocol as well as handling transcoding and streaming.
+protocol, implementing the SRP6-a cryptographic protocol,
+as well as implementing HLS streaming and transcoding.

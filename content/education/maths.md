@@ -6,10 +6,10 @@ draft: false
 pin: true
 start: 2015
 end: 2016
-tags: []
+tags: ["algorithms"]
 ---
 
-- Complex Calculus
+- Calculus I & II
 - Discrete Mathematics
 - Linear Algebra
 - Groups and Symmetry

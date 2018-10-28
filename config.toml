@@ -17,13 +17,14 @@ pygmentsCodeFences = true
 
 [params]
     author = "Alexander Lyon"
-    description = "A resume."
+    description = "A tech and open source enthusiast based in Edinburgh, Scotland"
     foreground = "#000"
     service_worker = false
 
 [params.cv]
     enabled = true
     sections = ["projects", "employment", "education", "responsibilities"]
+    min_for_tag = 2
 
 [params.cv.data]
     location = "Edinburgh"
@@ -32,7 +33,6 @@ pygmentsCodeFences = true
     github = "arlyon"
     gitlab = "git.arlyon.co"
     currently = "Soft.Eng @ Heriot Watt"
-    blurb = "A tech and open source enthusiast."
 
 # misc data
 

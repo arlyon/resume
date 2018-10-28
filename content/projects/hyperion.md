@@ -1,12 +1,13 @@
 ---
-title: "Crime Checker"
+title: "Hyperion"
 date: "2018-07-21T17:20:57+01:00"
 draft: false
 pin: true
 tags: [
     "python", "typescript", "javascript", "react",
-    "sql", "scraping", "continuous integration",
-    "continuous deployment", "webpack"
+    "sql", "scraping", "continuous-integration",
+    "continuous-deployment", "webpack", "project-management",
+    "open-source"
 ]
 demo: "https://crimechecker.herokuapp.com"
 source: "https://github.com/arlyon/crimechecker"
@@ -15,4 +16,5 @@ language: "Python"
 runtime: "Python 3.6"
 ---
 
-An API and web app for looking up crime data for postcodes in the UK.
+A command line tool, API, and progressive web-app for looking up
+crime data for postcodes in the UK.

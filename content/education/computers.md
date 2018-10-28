@@ -11,5 +11,3 @@ tags: ["matlab", "java", "sql", "networking", "algorithms"]
 
 - CCNA Introduction to Networks
 - CCNA Routing and Switching
-- Computer Architecture
-- Data Structures and Algorithms
