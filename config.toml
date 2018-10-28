@@ -17,7 +17,7 @@ pygmentsCodeFences = true
 
 [params]
     author = "Alexander Lyon"
-    description = "A tech and open source enthusiast based in Edinburgh, Scotland"
+    description = "A tech, privacy, and open source enthusiast based in Edinburgh, Scotland"
     foreground = "#000"
     service_worker = false
 
@@ -30,6 +30,7 @@ pygmentsCodeFences = true
     location = "Edinburgh"
     site = "https://blog.arlyon.co"
     email = "arlyon@me.com"
+    phone = "07434848282"
     github = "arlyon"
     gitlab = "git.arlyon.co"
     currently = "Soft.Eng @ Heriot Watt"
