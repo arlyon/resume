@@ -21,10 +21,10 @@ many years (not to mention hanging out with some of my FOSS idols).
 I am looking for similarly rewarding work this summer and I am intrigued
 by Codethink's emphasis on open source. Furthermore, I maintain a
 hypervisor at home as a hobby, so building a better understanding of
-Debian or CentOS is also highly desirable along with anything from my
-list of DevOps topics (networking, ansible/saltstack, infrastructure
-provision, containers, etc). A chance to attend conferences would be
-a bonus.
+Debian (now that IBM acquired redhat) is also highly desirable along
+with anything from my list of DevOps goals (networking,
+ansible/saltstack, infrastructure provision, containers, etc). A chance
+to attend conferences would be a bonus.
 
 The standard I set for myself and my software is very high and I strive
 to ensure every project I take on is exceptional. This is shown by the
