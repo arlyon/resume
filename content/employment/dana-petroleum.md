@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis"
+title: "Data Analyst"
 date: "2013-07-22"
 company: Dana Petroleum
 draft: false
