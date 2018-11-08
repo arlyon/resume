@@ -1,7 +1,7 @@
 ---
 title: "Codeplay"
 date: 2018-11-07T23:00:46Z
-draft: true
+draft: false
 ---
 
 _Dear Hiring manager,_
