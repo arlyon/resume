@@ -10,5 +10,5 @@ language: "C"
 runtime: "C99"
 ---
 
-Documentation and implementation of the AirPlay protocol in C for use
+Reverse engineering and implementation of the AirPlay protocol in C for use
 in VLC media player.

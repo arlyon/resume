@@ -10,6 +10,6 @@ language: "Java"
 runtime: "Java 8"
 ---
 
-A pair of popular mods for Minecraft with over 200,000 downloads.
+A pair of popular mods for Minecraft with over 300,000 downloads.
 Uses modern java features to implement a custom extensible
 block breaking algorithm.

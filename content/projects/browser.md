@@ -11,7 +11,5 @@ language: "C#"
 runtime: "C# 7"
 ---
 
-A fully asynchronous web browser. Stresses loose coupling between
-components, implementing tab and global history, favorites, private
-browsing, and non-blocking web requests. Uses the Model View Presenter
-pattern and event listeners to seperate the UI from the main logic.
+A fully asynchronous web browser using the Model View Presenter
+pattern and event listeners to separate the UI from the main logic.
