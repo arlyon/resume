@@ -1,4 +1,4 @@
-baseURL = "https://cv.arlyon.co/"
+baseURL = "https://cv.arlyon.dev/"
 languageCode = "en-us"
 title = "Alexander Lyon's CV"
 theme = "CAPSLOCK"
@@ -28,7 +28,7 @@ pygmentsCodeFences = true
 
 [params.cv.data]
     location = "Edinburgh"
-    site = "https://blog.arlyon.co"
+    site = "https://blog.arlyon.dev"
     email = "arlyon@me.com"
     phone = "07434848282"
     github = "arlyon"
