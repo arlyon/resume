@@ -2,7 +2,7 @@
 title: "Browser"
 date: "2018-07-22"
 draft: false
-pin: true
+pin: false
 tags: ["csharp", ".net", "tdd", "software-design", "sql"]
 demo: ""
 source: "https://github.com/arlyon/browser"

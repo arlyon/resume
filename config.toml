@@ -24,7 +24,7 @@ pygmentsCodeFences = true
 [params.cv]
     enabled = true
     sections = ["projects", "employment", "education", "responsibilities"]
-    min_for_tag = 2
+    min_for_tag = 3
 
 [params.cv.data]
     location = "Edinburgh"

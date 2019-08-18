@@ -12,4 +12,3 @@ tags: ["algorithms"]
 - Calculus I & II
 - Discrete Mathematics
 - Linear Algebra
-- Groups and Symmetry

@@ -3,7 +3,7 @@ title: "Data Analyst"
 date: "2013-07-22"
 company: Dana Petroleum
 draft: false
-pin: true
+pin: false
 start: July
 end: August 2013
 tags: ["python", "scraping", "data-science"]
