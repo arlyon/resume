@@ -9,7 +9,7 @@ end: August 2019
 tags: [
     "bazel", "go", "rust", "toolchains", "build systems", 
     "distributed consensus", "scrum", "consulting", "kubernetes", "docker",
-    "java", "raft", "bazel"
+    "java", "raft"
 ]
 ---
 Developing a remote execution and remote caching solution for one of the 
