@@ -6,7 +6,7 @@ draft: false
 pin: true
 start: May
 end: August 2019
-tags: [
+skills: [
     "bazel", "go", "rust", "toolchains", "build systems", 
     "distributed consensus", "scrum", "consulting", "kubernetes", "docker",
     "java", "raft"

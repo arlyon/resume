@@ -6,7 +6,7 @@ draft: true
 pin: true
 start: 2019
 end: 2020
-tags: []
+skills: []
 ---
 
 Act as a liaison between the CS department, the student union and university.

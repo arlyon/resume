@@ -3,7 +3,7 @@ title: "Hyperion"
 date: "2018-07-21T17:20:57+01:00"
 draft: false
 pin: true
-tags: [
+skills: [
     "python", "typescript", "javascript", "react",
     "sql", "scraping", "continuous-integration",
     "continuous-deployment", "webpack", "project-management",

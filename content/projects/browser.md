@@ -3,7 +3,7 @@ title: "Browser"
 date: "2018-07-22"
 draft: false
 pin: false
-tags: ["csharp", ".net", "tdd", "software-design", "sql"]
+skills: ["csharp", ".net", "tdd", "software-design", "sql"]
 demo: ""
 source: "https://github.com/arlyon/browser"
 # last two are used in schema.org/SoftwareSourceCode

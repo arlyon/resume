@@ -13,6 +13,9 @@ pygmentsStyle = "bw"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 
+[taxonomies]
+    skill = "skills"
+
 # custom settings
 
 [params]

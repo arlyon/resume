@@ -6,7 +6,7 @@ draft: false
 pin: true
 start: 2016
 end: 2017
-tags: ["vuejs", "typescript", "javascript", "csharp", ".net", "webpack", "project-management"]
+skills: ["vuejs", "typescript", "javascript", "csharp", ".net", "webpack", "project-management"]
 ---
 
 Designed and implemented a database and web app for warehousing and ordering automobile/computer parts

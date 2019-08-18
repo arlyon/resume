@@ -6,7 +6,7 @@ draft: false
 pin: true
 start: 2017
 end: 2020
-tags: [
+skills: [
     "python", "sql", "javascript", "C", ".net", "csharp", "java",
     "algorithms", "software-design"]
 ---

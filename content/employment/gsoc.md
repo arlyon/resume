@@ -6,7 +6,7 @@ draft: false
 pin: true
 start: May
 end: August 2018
-tags: [
+skills: [
     "c", "cryptography", "reverse-engineering", "git", "open-source",
     "project-management"
 ]

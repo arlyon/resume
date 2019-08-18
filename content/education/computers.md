@@ -6,7 +6,7 @@ draft: false
 pin: true
 start: 2016
 end: 2017
-tags: ["matlab", "java", "sql", "networking", "algorithms"]
+skills: ["matlab", "java", "sql", "networking", "algorithms"]
 ---
 
 - CCNA Introduction to Networks
