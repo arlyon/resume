@@ -12,6 +12,5 @@ skills: [
     "java", "raft"
 ]
 ---
-Developing a remote execution and remote caching solution for one of the 
-big five using Bazel to massively improve builds times, and remove
-single points of failure.
+Developing remote execution and remote caching solutions using Bazel to 
+massively improve builds times.
