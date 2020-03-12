@@ -1,5 +1,5 @@
 ---
-title: "Soft. Eng. BSc. (Hons) 1st"
+title: "Comp. Sci. BSc. (Hons) 1st"
 date: "2017-09-07"
 institution: "Heriot-Watt University"
 draft: false
@@ -11,7 +11,7 @@ skills: [
     "algorithms", "software-design"]
 ---
 
-97.5% grade average. Consistent leader in group assignments.
+Over 90% grade average. Consistent leader in group assignments.
 Enjoy going beyond the requirements of the course for personal and
 professional benefit.
 

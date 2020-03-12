@@ -3,7 +3,7 @@ title: "tap2go Bike Rental"
 date: 2019-03-20T16:49:40Z
 draft: false
 pin: true
-skills: ["python", "javascript", "GIS", "websockets", "react", "rest"]
+skills: ["python", "javascript", "GIS", "websockets", "react", "rest", 'event-sourcing', 'software-architecture']
 demo: "https://admin.tap2go.co.uk/"
 source: "https://github.com/dragorhast"
 # last two are used in schema.org/SoftwareSourceCode

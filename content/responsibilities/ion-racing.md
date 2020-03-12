@@ -9,5 +9,5 @@ end: 2017
 skills: ["vuejs", "typescript", "javascript", "csharp", ".net", "webpack", "project-management"]
 ---
 
-Designed and implemented a database and web app for warehousing and ordering automobile/computer parts
+Lead developer for a warehousing and automobile/computer parts ordering service
 for a Formula Student team, with the intent to improve oversight and efficiency.

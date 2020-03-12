@@ -3,7 +3,7 @@ title: "President"
 date: "2013-07-22"
 organisation: "Student Council"
 draft: false
-pin: true
+pin: false
 start: 2013
 end: 2014
 skills: []
