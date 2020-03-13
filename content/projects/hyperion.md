@@ -9,7 +9,6 @@ skills: [
     "continuous-deployment", "webpack", "project-management",
     "open-source"
 ]
-demo: "https://hyperion.netlify.com"
 source: "https://github.com/arlyon/crimechecker"
 # last two are used in schema.org/SoftwareSourceCode
 language: "Python"
