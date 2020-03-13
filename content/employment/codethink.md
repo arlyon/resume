@@ -8,8 +8,8 @@ start: May 2019
 end: now
 skills: [
     "bazel", "go", "rust", "toolchains", "build systems", 
-    "distributed consensus", "scrum", "consulting", "kubernetes", "docker",
-    "java", "raft"
+    "distributed-consensus", "scrum", "consulting", "kubernetes", "docker",
+    "java", "raft", 'microservices'
 ]
 ---
 
