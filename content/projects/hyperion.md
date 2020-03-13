@@ -9,7 +9,7 @@ skills: [
     "continuous-deployment", "webpack", "project-management",
     "open-source"
 ]
-source: "https://github.com/arlyon/crimechecker"
+source: "https://github.com/arlyon/hyperion"
 # last two are used in schema.org/SoftwareSourceCode
 language: "Python"
 runtime: "Python 3.6"
