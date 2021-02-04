@@ -31,13 +31,12 @@ pygmentsCodeFences = true
     min_for_tag = 3
 
 [params.cv.data]
-    location = "Stavanger"
+    location = "Edinburgh"
     site = "https://blog.arlyon.dev"
     email = "arlyon@me.com"
     phone = "+47 41601604"
     github = "arlyon"
-    gitlab = "git.arlyon.co"
-    currently = "Soft.Eng. @ [Miles](https://miles.no)"
+    currently = "Consultant @ [Miles](https://miles.no)"
 
 # misc data
 

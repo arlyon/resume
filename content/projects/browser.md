@@ -4,7 +4,6 @@ date: "2018-07-22"
 draft: false
 pin: false
 skills: ["csharp", "dotnet", "tdd", "software-design", "sql", 'object-oriented', 'linq']
-demo: ""
 source: "https://github.com/arlyon/browser"
 # last two are used in schema.org/SoftwareSourceCode
 language: "C#"

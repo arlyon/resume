@@ -11,4 +11,4 @@ runtime: "C99"
 ---
 
 Reverse engineering and implementation of the AirPlay protocol in C for use
-in VLC media player.
+in VLC media player, as part of my involvement with Google Summer of Code.

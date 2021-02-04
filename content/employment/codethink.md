@@ -1,17 +1,19 @@
 ---
-title: "Codethink"
-date: 2019-08-18T10:08:56+01:00
-company:
+title: Codethink
+date: 2019-05-01
+company: Consultant
 draft: false
 pin: true
 start: May 2019
-end: now
+end: December 2020
 skills: [
     "bazel", "go", "rust", "toolchains", "build systems", 
     "distributed-consensus", "scrum", "consulting", "kubernetes", "docker",
-    "java", "raft", 'microservices'
+    "java", "raft", 'microservices', 'project-management', "continuous-delivery",
+    "cpp", "llvm", "clang"
 ]
 ---
 
-Developing and optimising cloud-native remote execution and remote 
-caching solutions for distributed build systems.
+Worked directly with high power clients across Europe and the US,
+delivering solutions within remote execution and caching, distributed
+systems, and language servers / compilers.

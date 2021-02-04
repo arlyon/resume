@@ -4,8 +4,8 @@ date: "2013-07-22"
 organisation: "Student Council"
 draft: false
 pin: false
-start: 2013
-end: 2014
+# start: 2013
+# end: 2014
 skills: []
 ---
 

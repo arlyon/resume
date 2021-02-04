@@ -1,18 +1,18 @@
 ---
 title: Google Summer of Code
-date: "2018-05-17"
+date: 2018-05-17
 company: VideoLAN
 draft: false
-pin: true
+pin: false
 start: May
 end: August 2018
 skills: [
     "c", "cryptography", "reverse-engineering", "git", "open-source",
-    "project-management"
+    "project-management", "gitlab", "gnupg"
 ]
 ---
 
-Implemented AirPlay as a render target for VLC.
-This includes reverse engineering and documenting the
-protocol, implementing the SRP6-a cryptographic protocol,
-as well as implementing HLS streaming and transcoding.
+Reverse engineered and implemented the AirPlay protocol for the 
+VLC media player. This includes implementing the cryptographic
+primitives, the SRP6-a cryptographic protocol, as well as HLS 
+streaming and transcoding.
