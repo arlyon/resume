@@ -20,7 +20,7 @@ pygmentsCodeFences = true
 
 [params]
     author = "Alexander Lyon"
-    description = "A tech, privacy, and open source enthusiast based in Edinburgh, Scotland"
+    description = "A tech, privacy, and open source enthusiast based in London, UK"
     foreground = "#000"
     service_worker = false
     plausible_domain = "cv.arlyon.dev"
@@ -31,12 +31,12 @@ pygmentsCodeFences = true
     min_for_tag = 3
 
 [params.cv.data]
-    location = "Edinburgh"
+    location = "London"
     site = "https://blog.arlyon.dev"
     email = "arlyon@me.com"
-    phone = "+47 41601604"
+    phone = "+44 7434848282"
     github = "arlyon"
-    currently = "Consultant @ [Miles](https://miles.no)"
+    currently = "Consultant @ [Lyon Foundries](https://foundries.dev)"
 
 # misc data
 

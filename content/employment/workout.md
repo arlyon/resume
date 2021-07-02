@@ -1,6 +1,6 @@
 ---
 title: Fitness Connect
-date: 2019-12-01
+date: 2020-05-01
 company: Contract
 draft: false
 pin: true

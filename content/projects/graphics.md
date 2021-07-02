@@ -9,4 +9,4 @@ source: "https://github.com/arlyon/graphics"
 language: "C++"
 ---
 
-A fast, cross platform OpenGL4 boids simulation using ECS 
+A fast, cross platform OpenGL4 boids simulation using an entity-component-system architecture

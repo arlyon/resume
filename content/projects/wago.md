@@ -9,5 +9,6 @@ source: "https://github.com/CodethinkLabs/wago"
 # last two are used in schema.org/SoftwareSourceCode
 language: "Go"
 ---
+
 A cryptographically secure distributed ledger used as a testing grounds to explore
 (non-byzantine) fault tolerant state machines for use in reliable storage systems.

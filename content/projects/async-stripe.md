@@ -10,5 +10,5 @@ language: "Rust"
 ---
 
 An asynchronous rust library for the stripe API. Bindings are
-automatically generated from the OpenApi spec, with multiple 
+automatically generated from the OpenApi spec, with multiple
 backends for the various async runtimes.

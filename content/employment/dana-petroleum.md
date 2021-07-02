@@ -1,6 +1,6 @@
 ---
 title: Data Analyst
-date: 2013-07-22
+date: 2013-07-01
 company: Dana Petroleum
 draft: false
 pin: false

@@ -1,6 +1,6 @@
 ---
 title: Codethink
-date: 2019-05-01
+date: 2020-12-01
 company: Consultant
 draft: false
 pin: true

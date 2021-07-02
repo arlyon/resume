@@ -24,4 +24,4 @@ language: "go"
 
 Abstracted out the scheduler into a generic pluggable interface
 and implemented a backend for etcd, removing a single point of
-failure. 
+failure.
