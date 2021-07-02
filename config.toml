@@ -14,7 +14,7 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 
 [taxonomies]
-    skill = "skills"
+    competency = "competencies"
 
 # custom settings
 

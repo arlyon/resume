@@ -3,7 +3,7 @@ title: "Library"
 date: 2018-10-12T11:46:47+01:00
 draft: false
 pin: false
-skills: ["python", "vuejs", "javascript", "sql", 'django', 'SPA', 'rest']
+competencies: ["python", "vuejs", "javascript", "sql", "django", "SPA", "rest"]
 demo: ""
 source: ""
 # last two are used in schema.org/SoftwareSourceCode

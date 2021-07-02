@@ -3,7 +3,7 @@ title: "Aiobreaker"
 date: 2018-07-22T15:37:55+01:00
 draft: false
 pin: true
-skills: ["python", "library", "open-source"]
+competencies: ["python", "library", "open-source", "async"]
 source: "https://github.com/arlyon/aiobreaker"
 # last two are used in schema.org/SoftwareSourceCode
 language: "Python"

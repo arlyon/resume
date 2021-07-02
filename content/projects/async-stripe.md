@@ -3,7 +3,7 @@ title: "Async Stripe"
 date: 2018-07-22T15:37:55+01:00
 draft: false
 pin: true
-skills: ["rust", "library", "open-source", "github-actions"]
+competencies: ["rust", "library", "open-source", "github-actions", "async"]
 source: "https://github.com/arlyon/stripe-rs"
 # last two are used in schema.org/SoftwareSourceCode
 language: "Rust"

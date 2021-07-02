@@ -6,7 +6,7 @@ draft: false
 pin: true
 # start: 2016
 # end: 2017
-skills: ["matlab", "java", "sql", "networking", "algorithms", "university", "electrical-engineering", "embedded"]
+competencies: ["matlab", "java", "sql", "networking", "algorithms", "university", "electrical-engineering", "embedded"]
 ---
 
 - CCNA Introduction to Networks

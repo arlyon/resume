@@ -6,7 +6,7 @@ draft: false
 pin: true
 start: January 2021
 end: now
-skills: ['relational-databases', 'csharp', 'project-management', "azure", "dotnet", "microservices"]
+competencies: ["relational-databases", "csharp", "project-management", "azure", "dotnet", "microservices"]
 ---
 
 Coordinating the migration of a large legacy system to a more

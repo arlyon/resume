@@ -6,7 +6,7 @@ draft: false
 pin: true
 # start: 2016
 # end: 2017
-skills: ["vuejs", "typescript", "javascript", "csharp", "dotnet", "webpack", "project-management"]
+competencies: ["vuejs", "typescript", "javascript", "csharp", "dotnet", "webpack", "project-management"]
 ---
 
 Lead developer for a warehousing and automobile/computer parts ordering service

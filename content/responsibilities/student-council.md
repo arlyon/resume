@@ -6,7 +6,7 @@ draft: false
 pin: false
 # start: 2013
 # end: 2014
-skills: []
+competencies: []
 ---
 
 On top of regular duties, ran a campaign to try and improve transparency

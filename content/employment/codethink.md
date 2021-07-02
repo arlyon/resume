@@ -6,12 +6,27 @@ draft: false
 pin: true
 start: May 2019
 end: December 2020
-skills: [
-    "bazel", "go", "rust", "toolchains", "build systems", 
-    "distributed-consensus", "scrum", "consulting", "kubernetes", "docker",
-    "java", "raft", 'microservices', 'project-management', "continuous-delivery",
-    "cpp", "llvm", "clang"
-]
+competencies:
+  [
+    "bazel",
+    "go",
+    "rust",
+    "toolchains",
+    "build systems",
+    "distributed-consensus",
+    "scrum",
+    "consulting",
+    "kubernetes",
+    "docker",
+    "java",
+    "raft",
+    "microservices",
+    "project-management",
+    "continuous-deployment",
+    "cpp",
+    "llvm",
+    "clang",
+  ]
 ---
 
 Worked directly with high power clients across Europe and the US,

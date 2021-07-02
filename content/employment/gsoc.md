@@ -6,10 +6,8 @@ draft: false
 pin: false
 start: May
 end: August 2018
-skills: [
-    "c", "cryptography", "reverse-engineering", "git", "open-source",
-    "project-management", "gitlab", "gnupg"
-]
+competencies:
+  ["c", "cryptography", "reverse-engineering", "git", "open-source", "project-management", "gitlab", "gnupg"]
 ---
 
 Reverse engineered and implemented the AirPlay protocol for the 

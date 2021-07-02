@@ -6,7 +6,22 @@ draft: false
 pin: true
 start: December 2019
 end: May 2020
-skills: ['relational-databases', 'sql', 'microservices', 'rust', 'python', 'machine-learning', 'graphql', 'react', 'react-native', 'typescript', 'kubernetes', 'docker', 'project-management']
+competencies:
+  [
+    "relational-databases",
+    "sql",
+    "microservices",
+    "rust",
+    "python",
+    "machine-learning",
+    "graphql",
+    "react",
+    "react-native",
+    "typescript",
+    "kubernetes",
+    "docker",
+    "project-management",
+  ]
 ---
 
 Lead developer and architect of a 3-man team

@@ -6,7 +6,7 @@ draft: false
 pin: true
 # start: 2015
 # end: 2016
-skills: ["algorithms"]
+competencies: ["algorithms"]
 ---
 
 <!-- - Calculus I & II

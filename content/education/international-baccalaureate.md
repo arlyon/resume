@@ -6,7 +6,7 @@ draft: false
 pin: false
 start: 2011
 end: 2014
-skills: []
+competencies: []
 ---
 
 Certificate of Bilingual Education

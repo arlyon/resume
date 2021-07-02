@@ -6,9 +6,8 @@ draft: false
 pin: true
 # start: 2017
 # end: 2020
-skills: [
-    "python", "sql", "javascript", "C", "dotnet", "csharp", "java",
-    "algorithms", "software-design", "university"]
+competencies:
+  ["python", "sql", "javascript", "C", "dotnet", "csharp", "java", "algorithms", "software-design", "university"]
 ---
 
 Graduated with over 90% grade average.

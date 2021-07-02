@@ -6,7 +6,7 @@ draft: false
 pin: false
 start: July
 end: August 2013
-skills: ["python", "scraping", "data-science"]
+competencies: ["python", "scraping", "data-science"]
 ---
 
 Created a python tool to automate the import of old well data and

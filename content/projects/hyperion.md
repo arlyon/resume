@@ -3,12 +3,19 @@ title: "Hyperion"
 date: "2018-07-21T17:20:57+01:00"
 draft: false
 pin: false
-skills: [
-    "python", "typescript", "javascript", "react",
-    "sql", "scraping", "continuous-integration",
-    "continuous-deployment", "webpack",
-    "open-source"
-]
+competencies:
+  [
+    "python",
+    "typescript",
+    "javascript",
+    "react",
+    "sql",
+    "scraping",
+    "continuous-integration",
+    "continuous-deployment",
+    "webpack",
+    "open-source",
+  ]
 source: "https://github.com/arlyon/hyperion"
 # last two are used in schema.org/SoftwareSourceCode
 language: "Python"

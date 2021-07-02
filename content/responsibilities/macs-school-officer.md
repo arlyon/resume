@@ -6,7 +6,7 @@ draft: false
 pin: true
 # start: 2019
 # end: 2020
-skills: ["project-management"]
+competencies: ["project-management"]
 ---
 
 Act as a liaison between the CS department, the student union and university.

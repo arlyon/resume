@@ -3,7 +3,7 @@ title: "Mastermind"
 date: 2018-10-28T20:55:58Z
 draft: false
 pin: false
-skills: ["c", "embedded", "cmake", "ARM"]
+competencies: ["c", "embedded", "cmake", "ARM"]
 source: "https://github.com/arlyon/mastermind"
 # last two are used in schema.org/SoftwareSourceCode
 language: "C"
